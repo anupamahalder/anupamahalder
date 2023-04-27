@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I do a task without thinking a lot as we have much limited time.
 - 💺 Coding Profite: LeetCode (https://leetcode.com/anupamahalder7/)
 - 💙 Hobby: Drawing 
-- 💖 Interest: Coding and Technoloy 
+- 💖 Interest: Coding, Technology, and Human psychology 
 - 🤍 Passion: Work good and have peace
