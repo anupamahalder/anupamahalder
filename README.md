@@ -7,8 +7,8 @@ Anupama here :heart:...</h1>
 <h2>Love: :repeat:</h2> <h4>Problem Solving on LeetCode, HackerEarth and GFG
                             and Frontend Development</h4><br>
 <h2>Fun fact About me: 💺	</h2> <h4>Thinking less and Doing more as time is Limited</h4><br>
-<h2>Interest: 💖 </h2><h4>Coding, Technology, and Human Psychology</h4><br>
-<h2>Hobby: 💙</h2><h4>Drawing, Cooking, Reading Books</h4>
+<h2>Interest: 💖 </h2><h4>Coding, Technology and Human Psychology</h4><br>
+<h2>Hobby: 💙</h2><h4>Drawing, Cooking and Reading Books</h4>
 <!-- - 👯 I’m looking to collaborate on making website using React
 - 🤔 I’m looking for help with Development of any real world application
 - 💬 Ask me about Front-end and JavaScript
