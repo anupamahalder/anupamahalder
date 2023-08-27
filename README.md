@@ -2,7 +2,7 @@
 Anupama here :heart:...</h1>
 
 <h4>🤍 Know me with a few lines 🤍</h4> <br>
-<h2>Stacks: :computer:</h2><h4>Frontend using HTML5, CSS3, Tailwind CSS, Daisy UI, JavaScript, REACT JS, PostgreSQL</h4><br>
+<h2>Tech Stacks: :computer:</h2><h4>Frontend using HTML5, CSS3, Tailwind CSS, Daisy UI, JavaScript, REACT JS, PostgreSQL</h4><br>
 <h2>Busy to learn: :clock9:</h2><h4>JavaScript, JavaScript library React.js</h4><br>
 <h2>Love: :repeat:</h2> <h4>Problem Solving on LeetCode, HackerEarth and GFG
                             and Frontend Development</h4><br>
