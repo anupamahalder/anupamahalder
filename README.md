@@ -2,7 +2,7 @@
 Anupama here :heart:... </h1>
 
 <h4>🤍 Know me with a few lines 🤍</h4> <br>
-<h2>Tech Stacks: :computer:</h2><h4>React JS, JavaScript, Tailwind CSS, CSS3, HTML5</h4><br>
+<h2>Tech Stacks: :computer:</h2><h4>React JS, Node JS, Express JS, MongoDB, JavaScript, Tailwind CSS, CSS3, HTML5</h4><br>
 <h2>Busy to learn: :clock9:</h2><h4>JavaScript, JavaScript library React.js</h4><br>
 <h2>Love: :repeat:</h2> <h4>Problem Solving on CodeForces, HackerRank, LeetCode, HackerEarth and GFG</h4><h4>Frontend Development</h4><br>
 <!-- <h2>Fun fact About me: 💺	</h2> <h4>Thinking less and Doing more as time is Limited</h4><br> -->
