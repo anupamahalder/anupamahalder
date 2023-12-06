@@ -1,5 +1,5 @@
 <h1>Hi there 👋, <br>
-Anupama here :heart:... </h1>
+Anupama here : 💙... </h1>
 
 <h4>🤍 Know me with a few lines 🤍</h4> <br>
 <h2>Tech Stacks: :computer:</h2><h4>React JS, Node JS, Express JS, MongoDB, JavaScript, Tailwind CSS, CSS3, HTML5</h4><br>
