@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">💙 I code with</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 <br/><br/>
 ###
 
-<h2 align="left">Also can find me on</h2>
+<h2 align="left">🔗Also can find me on</h2>
 
 ###
 
