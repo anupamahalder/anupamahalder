@@ -18,13 +18,36 @@
 <h2 align="left">💙 I code with</h2>
 
 ###
+###
+
+<h2 align="left">💙 </h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://media.licdn.com/dms/image/C4D12AQEOs18gPOzWyA/article-cover_image-shrink_720_1280/0/1648300473213?e=2147483647&v=beta&t=E3p_Ncatjw-GXKXEI_tE9PeE80NuBJ9V85sg3EFR0nA" height="40" alt="Node JS Logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4nU4gNWK6ZXYIa8FGtIJZ03rgN8vQv0_pq1AeFiM7lQ&s" height="40" alt="Express JS Logo"  />
+  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" /> -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmou6evgeGnMsU4Kac3TEv60q65uqVigxib1NYMmoFw&s" height="40" alt="HTML Logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" height="40" alt="CSS 3"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRld8EcXNHiLxenTYvUX0ReOMbbjIp5uqUOf6I79MSqxA&s" height="40" alt="Tailwind CSS"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpb4dd1NNR8-FBsU-KY20vDLCQCtA0OBP87eO_gjfKA&s" height="40" alt="Material UI Logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" height="40" alt="Figma Logo"  />
+  <img width="12" />
+  <img src="https://prod-discovery.edx-cdn.org/media/course/image/c332bd5d-2ff1-4f11-868a-6644076c904e-a44b6765f142.png" height="40" alt="SQL Logo"  />
+  <img width="12" />
+  <img src="https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp" height="40" alt="MonoDb Database Logo"  />
   <img width="12" />
 </div>
 
