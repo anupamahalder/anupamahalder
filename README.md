@@ -63,6 +63,9 @@
   <img width="12" />
   <img src="https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp" height="40" alt="MonoDb Database Logo"  />
   <img width="12" />
+  <img width="12" />
+  <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" height="40" alt="Firebase Logo"  />
+  <img width="12" />
 </div>
 
 <br/><br/>
