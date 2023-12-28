@@ -93,7 +93,7 @@
 </a>
 <!-- HackerRank  -->
 <a href="https://www.hackerrank.com/profile/anupamahalder202">
-  <img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="HackerRank" height="50px" width="100px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" height="50px" width="100px">
 </a>
 <!-- StackOverflow  -->
 <a href="https://stackoverflow.com/users/22475274/anupama-halder?tab=profile">
@@ -101,7 +101,7 @@
 </a>
 <!-- GFG  -->
 <a href="https://auth.geeksforgeeks.org/user/anupamahalder7">
-  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GFG" height="50px" width="100px">
+  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GFG" height="40px" width="100px">
 </a>
 </div>
 
