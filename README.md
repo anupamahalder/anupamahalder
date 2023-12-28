@@ -15,12 +15,26 @@
 
 ###
 
-<h2 align="left">💙 I code with</h2>
+<h2 align="left">💟 I code with</h2>
 
 ###
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="40" alt="C++"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" alt="C Language"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtmvJ6J8QQ2pZzsNdRFLpfKw6TQKpa40fi5v-ULWl7Q&s" height="40" alt="Python"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" height="40" alt="JavaScript"  />
+  <img width="12" />
+</div>
+
+
+</br></br>
+
 ###
 
-<h2 align="left">💙 </h2>
+<h2 align="left">💻 Tech Stacks</h2>
 
 ###
 
